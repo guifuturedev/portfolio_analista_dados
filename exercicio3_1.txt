@@ -1,0 +1,1 @@
+Este é o exercício 3.1 do curso de Analista de Dados.
