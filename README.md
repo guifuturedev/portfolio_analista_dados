@@ -1,36 +1,22 @@
+# Portfólio de Análise de Dados - Guilherme Soares
 
-Projetos
-######################################################################################
+Este repositório contém meus projetos de análise de dados e Machine Learning desenvolvidos
+durante meus estudos e cursos.
 
-1. Projeto Gasolina SP
+---
 
-Oi! 👋
-Este projeto analisa o preço médio da gasolina em São Paulo nos 10 primeiros dias de julho de 2021.
-Você encontrará a base de dados, o código em Python que gera os gráficos e o gráfico final que mostra os preços de forma clara.
+## Projetos
 
-Tecnologias usadas:
+### 1. Projeto Gasolina SP
+Descrição: Análise do preço médio da gasolina em São Paulo nos 10 primeiros dias de julho de 2021.
+Conteúdo: Notebook `.ipynb` e dados `.csv`.
+Tecnologias: Pandas, Seaborn, Spark Cluster on Docker.
 
-Pandas → organizar e analisar os dados
-
-Seaborn → criar gráficos bonitos e de fácil interpretação
-
-Spark Cluster on Docker → ambiente para testes mais avançados
-
-###################################################################################
-
-2. Projeto lages_school_risk
-   
-Este projeto realiza uma análise de dados simulados de escolas de Lages/SC para prever o risco de evasão escolar.
-O notebook contém exploração de dados (EDA), gráficos descritivos e um modelo de Machine Learning simples (Decision Tree).
-O objetivo é gerar insights sobre fatores de risco que podem impactar a permanência dos alunos na escola.
-
-Tecnologias usadas:
-
-Pandas → manipulação e análise de dados
-
-Seaborn & Matplotlib → criação de gráficos informativos
-
-Scikit-learn → construção e avaliação do modelo de Machine Learning
+### 2. Projeto lages_school_risk
+Descrição: Análise de dados simulados de escolas de Lages/SC para prever risco de evasão escolar.
+Conteúdo: Notebook `.ipynb` e arquivo de observações `.txt`.
+Tecnologias: Pandas, Seaborn, Matplotlib, Scikit-learn.
+Observações: Dados simulados, mas pronto para receber dados reais no futuro.
 
 Observações:
 
